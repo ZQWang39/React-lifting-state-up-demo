@@ -21,8 +21,6 @@ function tryConvert(temperature, convert) {
   return rounded.toString();
 }
 
-
-
 class App extends Component {
    state={
      temperature:'',
